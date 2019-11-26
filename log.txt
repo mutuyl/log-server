@@ -1,0 +1,14 @@
+[2019/11/19 10:59:53 CST] [INFO] (main.initLogger:20) Current time is : 10:59:53 CST 2019/11/19
+[2019/11/19 10:59:53 CST] [INFO] (main.main:156) listenning port: 11110
+[2019/11/19 11:02:54 CST] [INFO] (main.main:156) listenning port: 11110
+[2019/11/19 11:23:44 CST] [INFO] (main.main:144) listenning port: 11110
+[2019/11/19 11:38:28 CST] [INFO] (main.main:144) listenning port: 11110
+[2019/11/21 14:11:59 CST] [INFO] (main.main:144) listenning port: 11110
+[2019/11/21 14:21:01 CST] [INFO] (main.main:123) listenning port: 11110
+[2019/11/21 14:22:10 CST] [INFO] (main.writeLinesToFile:100) 121/sysevt/log.txt create failed. err: open 121/sysevt/log.txt: The system cannot find the file specified.
+[2019/11/21 14:39:00 CST] [INFO] (main.main:130) listenning port: 11110
+[2019/11/21 14:58:57 CST] [INFO] (main.main:146) listenning port: 11110
+[2019/11/21 15:04:04 CST] [INFO] (main.writeLinesToFile:123) 121/sysevt/log.txt create failed. err: open 121/sysevt/log.txt: The system cannot find the path specified.
+[2019/11/21 15:57:26 CST] [INFO] (main.main:170) listenning port: 11110
+[2019/11/21 16:01:25 CST] [INFO] (main.main:169) listenning port: 11110
+[2019/11/22 17:34:31 CST] [INFO] (main.main:169) listenning port: 11110
